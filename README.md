@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frbg%2Fkvc.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frbg%2Fkvc?ref=badge_shield)
+
 This will not work if you have a read/write connection to the bolt DB file already. You must close that before using the viewer.
 
 
@@ -26,3 +28,7 @@ Get key/vals from a bucket. It assumes JSON encoding of the values, but will dum
                                       }
 
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frbg%2Fkvc.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frbg%2Fkvc?ref=badge_large)
